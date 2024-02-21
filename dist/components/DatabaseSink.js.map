@@ -1,0 +1,1 @@
+{"version":3,"file":"DatabaseSink.js","sourceRoot":"","sources":["../../src/components/DatabaseSink.ts"],"names":[],"mappings":";;;AAGA,MAAa,YAAY;IAErB,SAAS;QACL,OAAO,CAAC,GAAG,CAAC,cAAc,CAAC,CAAA;IAC/B,CAAC;IAED,MAAM,CAAC,UAAuB;QAC1B,IAAI,CAAC,SAAS,EAAE,CAAC;QACpB,OAAO,CAAC,GAAG,CAAC,aAAa,UAAU,CAAC,QAAQ,KAAK,UAAU,CAAC,OAAO,EAAE,CAAC,CAAA;IACvE,CAAC;CAEJ;AAXD,oCAWC"}
